@@ -36,6 +36,7 @@ dependencies {
     implementation libs.constraintlayout
     implementation project(':MySimpleMathLibrary')
     implementation project(':MySimpleWordLibrary')
+    implementation project(':DocumentAutoCapture')
     testImplementation libs.junit
     androidTestImplementation libs.ext.junit
     androidTestImplementation libs.espresso.core
